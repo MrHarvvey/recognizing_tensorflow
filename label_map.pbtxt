@@ -1,0 +1,16 @@
+item { 
+    name:'right_hand_up'
+    id:1
+}
+item { 
+    name:'left_hand_up'
+    id:2
+}
+item { 
+    name:'both_hands_up'
+    id:3
+}
+item { 
+    name:'squat'
+    id:4
+}
